@@ -7,8 +7,8 @@
 <body>
     <?php
     // Menyimpan data siswa dan nilai.
-    $namaSiswa = "Budi Santoso";
-    $kelas = "XII RPL 1";
+    $namaSiswa = "Lannn";
+    $kelas = "XII RPL 3";
     $nilaiTugas = 85;
     $nilaiUTS = 80;
     $nilaiUAS = 90;
